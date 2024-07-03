@@ -26,9 +26,9 @@ This project demonstrates the following:
 Here are some screenshots of the app:
 
 <p float="left">
-  <img src="screenshots/home_screen.png" width="250" />
-  <img src="screenshots/player_screen.png" width="250" /> 
-  <img src="screenshots/exclusive_screen.png" width="250" /> 
+  <img src="assets/screenshots/home_screen.png" width="250" />
+  <img src="assets/screenshots/player_screen.png" width="250" /> 
+  <img src="assets/screenshots/exclusive_screen.png" width="250" /> 
 </p>
 
 ## Getting Started
@@ -45,7 +45,7 @@ These instructions will help you set up the project on your local machine for de
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/podcast-app-ui-flutter.git
+   git clone https://github.com/upretisaurav/podcast-app-ui-flutter.git
    cd podcast-app-ui-flutter
    ```
 
