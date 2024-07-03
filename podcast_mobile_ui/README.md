@@ -28,7 +28,7 @@ Here are some screenshots of the app:
 <p float="left">
   <img src="assets/screenshots/home_screen.png" width="250" />
   <img src="assets/screenshots/player_screen.png" width="250" /> 
-  <img src="assets/screenshots/exclusive_screen.png" width="250" /> 
+  <img src="assets/screenshots/exclusive_tab.png" width="250" /> 
 </p>
 
 ## Getting Started
