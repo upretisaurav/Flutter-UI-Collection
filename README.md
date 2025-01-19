@@ -11,6 +11,9 @@ This repository contains multiple Flutter projects, each showcasing different UI
 ### 1. [Podcast UI]
 - **Description**: This project is a Flutter-based practice project where I replicated the UI design of a podcast app inspired by a design from Dribbble.
 
+### 1. [Sunseek UI]
+- **Description**: This project is a Flutter-based practice project where I replicated the UI design of a sunseek app inspired by a design from Dribbble.
+
 ## 🛠️ Technical Details
 
 ### Requirements
